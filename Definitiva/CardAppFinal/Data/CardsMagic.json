@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Last-Minute Chopping",
+        "price": 1.5,
+        "edicion": "edicion fuego",
+        "imageURL": "Last-Minute Chopping"
+    },
+    {
+        "id": 2,
+        "name": "Colmillothrag",
+        "price": 0.6,
+        "edicion": "edicion fuego",
+        "imageURL": "Colmillothrag"
+    },
+    {
+        "id": 3,
+        "name": "Despertar a los muertos",
+        "price": 3.3,
+        "edicion": "edicion fuego",
+        "imageURL": "Despertar a los muertos"
+    },
+    {
+        "id": 4,
+        "name": "Efara, diosa de la polis",
+        "price": 1.0,
+        "edicion": "edicion fuego",
+        "imageURL": "Efara, diosa de la polis"
+    },
+    {
+        "id": 5,
+        "name": "Black Lotus",
+        "price": 9.8,
+        "edicion": "edicion fuego",
+        "imageURL": "Jin-Gitaxias, Progress Tyrant"
+    },
+    {
+        "id": 21,
+        "name": "Go-Shintai of Life's Origin",
+        "price": 16.0,
+        "edicion": "edicion fuego",
+        "imageURL": "Go-Shintai of Life's Origin"
+    },
+    {
+        "id": 22,
+        "name": "Farewell",
+        "price": 4.0,
+        "edicion": "edicion fuego",
+        "imageURL": "Farewell"
+    },
+    {
+        "id": 23,
+        "name": "Boseiju, Who Endures",
+        "price": 21.0,
+        "edicion": "edicion fuego",
+        "imageURL": "Boseiju, Who Endures"
+    },
+    {
+        "id": 24,
+        "name": "Takenuma, Abandoned Mire",
+        "price": 3.0,
+        "edicion": "edicion fuego",
+        "imageURL": "Takenuma, Abandoned Mire"
+    },
+    {
+        "id": 25,
+        "name": "Jin-Gitaxias, Progress Tyrant",
+        "price": 15.0,
+        "edicion": "edicion fuego",
+        "imageURL": "Jin-Gitaxias, Progress Tyrant"
+    }
+  
+]
+

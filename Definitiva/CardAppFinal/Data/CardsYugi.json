@@ -1,0 +1,70 @@
+[
+    
+    {
+        "id": 11,
+        "name": "Dragón Blanco de Ojos Azules",
+        "price": 99.99,
+        "edicion": "edicion fuego",
+        "imageURL": "Dragón Blanco de Ojos Azules"
+    },
+    {
+        "id": 12,
+        "name": "Dragón de Polvo de Estrellas",
+        "price": 6.2,
+        "edicion": "edicion fuego",
+        "imageURL": "Dragón de Polvo de Estrellas"
+    },
+    {
+        "id": 13,
+        "name": "Exodia, el Prohibido",
+        "price": 7.5,
+        "edicion": "edicion fuego",
+        "imageURL": "Exodia, el Prohibido"
+    },
+    {
+        "id": 14,
+        "name": "Mago Oscuro",
+        "price": 0.25,
+        "edicion": "edicion fuego",
+        "imageURL": "Mago Oscuro"
+    },
+    {
+        "id": 15,
+        "name": "Luz Verdadera",
+        "price": 2.7,
+        "edicion": "edicion fuego",
+        "imageURL": "Luz Verdadera"
+    },
+    {
+        "id": 26,
+        "name": "Guardián Celta",
+        "price": 19.25,
+        "edicion": "edicion fuego",
+        "imageURL": "Guardián Celta"
+    },    {
+        "id": 27,
+        "name": "Dharc el Encantador Oscuro, Sombrío",
+        "price": 2.25,
+        "edicion": "edicion fuego",
+        "imageURL": "Dharc el Encantador Oscuro, Sombrío"
+    },    {
+        "id": 28,
+        "name": "Amo del Caos",
+        "price": 5.25,
+        "edicion": "edicion fuego",
+        "imageURL": "Amo del Caos"
+    },    {
+        "id": 29,
+        "name": "Flowagrantiso y el Adviento de Aventura",
+        "price": 14.25,
+        "edicion": "edicion fuego",
+        "imageURL": "Flowagrantiso y el Adviento de Aventura"
+    },    {
+        "id": 30,
+        "name": "Predaplanta Anaconda Verte",
+        "price": 10.25,
+        "edicion": "edicion fuego",
+        "imageURL": "Predaplanta Anaconda Verte"
+    }
+  
+]

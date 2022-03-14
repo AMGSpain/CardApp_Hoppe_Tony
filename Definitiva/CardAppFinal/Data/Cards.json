@@ -1,0 +1,73 @@
+[
+    
+    {
+        "id": 6,
+        "name": "Bulbasaur",
+        "price": 50.4,
+        "edicion": "edicion fuego",
+        "imageURL": "Bulbasaur"
+    },
+    {
+        "id": 7,
+        "name": "Charizard",
+        "price": 10.2,
+        "edicion": "edicion fuego",
+        "imageURL": "Charizard"
+    },
+    {
+        "id": 8,
+        "name": "Eevee",
+        "price": 3.9,
+        "edicion": "edicion fuego",
+        "imageURL": "Eevee"
+    },
+    {
+        "id": 9,
+        "name": "Pikachu",
+        "price": 2.1,
+        "edicion": "edicion fuego",
+        "imageURL": "Pikachu"
+    },
+    {
+        "id": 10,
+        "name": "Salamence",
+        "price": 1.1,
+        "edicion": "edicion fuego",
+        "imageURL": "Salamence"
+    },
+    {
+        "id": 16,
+        "name": "Mew",
+        "price": 49.4,
+        "edicion": "edicion fuego",
+        "imageURL": "mew"
+    },
+    {
+        "id": 17,
+        "name": "Mewtwo",
+        "price": 17.4,
+        "edicion": "edicion fuego",
+        "imageURL": "Mewtwo"
+    },
+    {
+        "id": 18,
+        "name": "Milotic",
+        "price": 2.4,
+        "edicion": "edicion fuego",
+        "imageURL": "Milotic"
+    },
+    {
+        "id": 19,
+        "name": "Volcarona",
+        "price": 19.4,
+        "edicion": "edicion trueno",
+        "imageURL": "Volcarona"
+    },
+    {
+        "id": 20,
+        "name": "Greninja",
+        "price": 3.4,
+        "edicion": "edicion fuego",
+        "imageURL": "Greninja"
+    }
+]
