@@ -14,6 +14,12 @@ class PerfilAjustesViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        Button.layer.cornerRadius = 15
+        sesionButton.layer.cornerRadius = 15
+        politicasButton.layer.cornerRadius = 15
+        tutoriaButton.layer.cornerRadius = 15
+        historialButton.layer.cornerRadius = 15
+        
     }
 
 

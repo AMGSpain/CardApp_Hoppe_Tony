@@ -24,6 +24,8 @@
 		3359C3FF27B421B100D880A8 /* PerfilAjustesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3359C3FE27B421B100D880A8 /* PerfilAjustesViewController.swift */; };
 		336C565E27B5690400E1C37E /* CardsYugi.json in Resources */ = {isa = PBXBuildFile; fileRef = 336C565D27B5690400E1C37E /* CardsYugi.json */; };
 		336C566027B5691100E1C37E /* CardsMagic.json in Resources */ = {isa = PBXBuildFile; fileRef = 336C565F27B5691100E1C37E /* CardsMagic.json */; };
+		33A9B0A527E2512E00305024 /* ResultSearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33A9B0A427E2512E00305024 /* ResultSearchViewController.swift */; };
+		33A9B0A727E2547900305024 /* SearchResultCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33A9B0A627E2547900305024 /* SearchResultCell.swift */; };
 		33AAB60B27C56E5200639FD8 /* ListaVendidosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AAB60A27C56E5200639FD8 /* ListaVendidosViewController.swift */; };
 		33B2791A27BACA7600F92644 /* PerfilAjenoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B2791927BACA7600F92644 /* PerfilAjenoViewController.swift */; };
 		33CE9C8E27C7FFAD00FFD420 /* personas.json in Resources */ = {isa = PBXBuildFile; fileRef = 33CE9C8D27C7FFAD00FFD420 /* personas.json */; };
@@ -69,6 +71,8 @@
 		3359C3FE27B421B100D880A8 /* PerfilAjustesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfilAjustesViewController.swift; sourceTree = "<group>"; };
 		336C565D27B5690400E1C37E /* CardsYugi.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = CardsYugi.json; sourceTree = "<group>"; };
 		336C565F27B5691100E1C37E /* CardsMagic.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = CardsMagic.json; sourceTree = "<group>"; };
+		33A9B0A427E2512E00305024 /* ResultSearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultSearchViewController.swift; sourceTree = "<group>"; };
+		33A9B0A627E2547900305024 /* SearchResultCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultCell.swift; sourceTree = "<group>"; };
 		33AAB60A27C56E5200639FD8 /* ListaVendidosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListaVendidosViewController.swift; sourceTree = "<group>"; };
 		33B2791927BACA7600F92644 /* PerfilAjenoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfilAjenoViewController.swift; sourceTree = "<group>"; };
 		33CE9C8D27C7FFAD00FFD420 /* personas.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = personas.json; sourceTree = "<group>"; };
@@ -197,6 +201,7 @@
 				FE907A8127C1940B00DF1488 /* CardCellgenerica.swift */,
 				33FE29CF27D28A0400E15E45 /* PersonasCell.swift */,
 				330F412B27DA6DA90051243A /* DetailCardCell.swift */,
+				33A9B0A627E2547900305024 /* SearchResultCell.swift */,
 			);
 			path = Cells;
 			sourceTree = "<group>";
@@ -235,6 +240,7 @@
 			isa = PBXGroup;
 			children = (
 				33ED2E0827AAF30F00F480ED /* SearchViewController.swift */,
+				33A9B0A427E2512E00305024 /* ResultSearchViewController.swift */,
 			);
 			path = "Busqueda Controllers";
 			sourceTree = "<group>";
@@ -324,6 +330,7 @@
 				330F412827DA6BF80051243A /* DetailCard1ViewController.swift in Sources */,
 				FE907A8427C196B200DF1488 /* Yugi.swift in Sources */,
 				33ED2E1727AAF31000F480ED /* Carta.swift in Sources */,
+				33A9B0A727E2547900305024 /* SearchResultCell.swift in Sources */,
 				33ED2DEC27AAF2BC00F480ED /* AppDelegate.swift in Sources */,
 				FE907A8627C196C600DF1488 /* Pokemon.swift in Sources */,
 				FE907A9127C1D17400DF1488 /* VaciosViewController.swift in Sources */,
@@ -343,6 +350,7 @@
 				3359C3FF27B421B100D880A8 /* PerfilAjustesViewController.swift in Sources */,
 				33AAB60B27C56E5200639FD8 /* ListaVendidosViewController.swift in Sources */,
 				33ED2E0227AAF2FA00F480ED /* CardCell.swift in Sources */,
+				33A9B0A527E2512E00305024 /* ResultSearchViewController.swift in Sources */,
 				33ED2E1227AAF31000F480ED /* PerfilViewController.swift in Sources */,
 				3347D34427ADABE700DCDE41 /* MockData.swift in Sources */,
 				33ED2E1627AAF31000F480ED /* LoginViewController.swift in Sources */,

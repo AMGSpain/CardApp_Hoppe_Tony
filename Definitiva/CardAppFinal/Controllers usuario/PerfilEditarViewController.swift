@@ -15,6 +15,7 @@ class PerfilEditarViewController: UIViewController, UIImagePickerControllerDeleg
     @IBOutlet var telefono: UITextField!
     @IBOutlet var userImageView: UIImageView!
     @IBOutlet var elegirButton: UIButton!
+    @IBOutlet var confirmarCambiosButton: UIButton!
     
     var imagePicker = UIImagePickerController()
     
@@ -26,6 +27,9 @@ class PerfilEditarViewController: UIViewController, UIImagePickerControllerDeleg
     override func viewDidLoad() {
 
         super.viewDidLoad()
+        
+        confirmarCambiosButton.layer.cornerRadius = 15
+        
         DispatchQueue.main.async {
             if let imageSave = UserDefaults.standard.object(forKey: "imagenSave") as? Data{
                 let image = UIImage(data: imageSave)

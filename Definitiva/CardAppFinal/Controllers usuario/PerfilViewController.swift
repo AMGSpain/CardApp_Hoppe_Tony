@@ -41,6 +41,8 @@ class PerfilViewController: UIViewController, UICollectionViewDelegate, UICollec
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        buttonEditar.layer.cornerRadius = 15
+        
         DispatchQueue.main.async {
             self.collectionView?.dataSource = self
             self.collectionView?.delegate = self
